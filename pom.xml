@@ -37,7 +37,7 @@
             <configuration>
                 <archive>
                     <manifestEntries>
-                        <Main-Class>com.exam.bajaj.DestinationHashGenerator</Main-Class> <!-- Replace with your main class -->
+                        <Main-Class>com.exam.bajaj.DestinationHashGenerator</Main-Class> 
                     </manifestEntries>
                 </archive>
                 <descriptorRefs>
